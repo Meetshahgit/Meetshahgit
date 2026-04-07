@@ -124,7 +124,7 @@ I'm always open to discussing **data projects, BA roles, academic collaborations
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meet-shah)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meetanalyst/)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meetshahgit@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://meetshahgit.github.io)
 
