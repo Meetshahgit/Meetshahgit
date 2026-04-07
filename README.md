@@ -139,5 +139,5 @@ I'm always open to discussing **data projects, BA roles, academic collaborations
 ---
 
 <div align="center">
-  <sub>⚡ Built with purpose in Southampton, UK · Updated April 2026</sub>
+  <sub>⚡ Built with purpose in belfast, UK · Updated April 2026</sub>
 </div>
