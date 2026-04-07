@@ -93,16 +93,22 @@ Fun Fact    : I see a process inefficiency in everything — even queuing for co
 </div>
 
 ---
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Meetshahgit&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Meetshahgit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
 ---
+
+## 📊 Contribution Graph
+
+<div align="center">
+
+[![Meet's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Meetshahgit&theme=tokyo-night&hide_border=true&bg_color=1a1a2e&color=e94560&line=e94560&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ## 🐍 Contribution Activity
 
