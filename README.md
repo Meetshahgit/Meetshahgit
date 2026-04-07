@@ -27,8 +27,8 @@
 
 ```yaml
 Name        : Meet Shah
-Location    : Southampton, UK 🇬🇧
-Education   : Business Analysis (University of Southampton)
+Location    : Belfast, United Kingdom, 
+Education   : Msc in Business Analysis (Queen's Univeristy of Belfast)
 Focus       : Data Analysis · Business Intelligence · Process Improvement
 Status      : Open to opportunities & collaborations 🚀
 Currently   : Building my academic project portfolio on GitHub
