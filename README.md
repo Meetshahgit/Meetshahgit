@@ -73,7 +73,7 @@ Fun Fact    : I see a process inefficiency in everything — even queuing for co
 | 🔍 | **Customer Churn Analysis** | Identified key churn drivers — reduced churn 18% in pilot programme | Python, Pandas | ✅ Complete |
 | 🗺️ | **Process Re-engineering Study** | BPMN As-Is / To-Be procurement workflow analysis | BPMN, Visio | ✅ Complete |
 | 📊 | **Market Segmentation Report** | Cluster analysis of customer segments to inform marketing strategy | Python, Excel | 🔄 In Progress |
-| 🌐 | **Personal Portfolio Website** | Full academic project portfolio hosted on GitHub Pages | HTML, CSS, JS | 🔄 Coming Soon |
+| 🌐 | **Personal Portfolio Website** | Full academic project portfolio hosted on GitHub Pages | HTML, CSS, JS | ✅ complete |
 
 ---
 
